@@ -17,4 +17,4 @@ Me interesa el desarrollo móvil y web, y estoy enfocado en el área de Cloud
 
 ## Tecnologías
 
-Kotlin · Jetpack Compose · Django · Python · JavaScript · Capacitor · PostgreSQL · MySQL · Firebase
+Kotlin · Jetpack Compose · Django · Python · JavaScript · PHP · Flutter · Laravel · Capacitor · PostgreSQL · MySQL · Firebase
